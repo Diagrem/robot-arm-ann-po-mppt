@@ -88,7 +88,7 @@ python scripts/visualize_dynamic.py
 python scripts/visualize_dynamic.py --paper-summary
 ```
 
-**실제 3개 실험은 가능한 동일한 음영·광원·배선 조건에서 수행**해야 비교할 수 있습니다. 안내 코드의 시리얼 메시지 형식, 설정, ANN 예측 적용 주기는 논문에서 완전히 명시되어 있지 않아 참고 구현에서 추가로 정한 것이므로 실제 원본 코드와 다를 수 있습니다.
+
 
 ## 논문에 보고된 성능 결과 (측정값 재생산 아님)
 
