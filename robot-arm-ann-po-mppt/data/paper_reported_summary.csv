@@ -1,0 +1,4 @@
+algorithm,mean_power_w,max_power_w,power_range_w,mean_pwm
+basic,0.46984,0.94187,0.80924,123.44
+adaptive,0.50948,0.97581,0.85007,78.80
+ann,0.54170,0.96210,0.76007,81.90
